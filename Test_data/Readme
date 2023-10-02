@@ -1,2 +1,0 @@
-This contains ps estimation from test data cube provided by SKA. The test image cube contains HI + noise. To compare the result, SKA office also provided only HI ps. We estimate the ps from image cube and compare that with SKA.
-Note that our estimation has still small amount of noise bias and we have not done anything to correct that.
